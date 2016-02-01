@@ -1,5 +1,5 @@
 {
-	"name": "tez/yii2-brain-theme",
+	"name": "reenkal/yii2brai",
 	"description": "Yii 2 Theme",
 	"keywords": ["yii2", "theme"],
 	"type": "yii2-extension",
@@ -12,9 +12,9 @@
 	},
 	"authors": [
 		{
-			"name": "Mihai-P",
-			"email": "mihai@2ezweb.com.au",
-			"homepage": "http://2ezweb.com.au",
+			"name": "Reenkal",
+			"email": "reenkal.vekariya9@gmail.com",
+			"homepage": "http://manglamwebsoft.com",
 			"role": "Author"
 		}
 	],
